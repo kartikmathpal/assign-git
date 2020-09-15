@@ -3,6 +3,8 @@
   Files that can be included for a java project are : 
 	.classpath
 	.project
+	.class
+	.log
 	target
 		.settings
 		.DS_Store
@@ -11,6 +13,9 @@
 		.idea
 		*.iml
 		*.jar
+		*.war
+		*.zip
+		*.tar
 	RemoteSystemsTempFiles
 		bin
 
