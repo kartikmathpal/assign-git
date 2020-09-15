@@ -18,7 +18,8 @@
 		*.tar
 	RemoteSystemsTempFiles
 		bin
-
+	.idea
+	
 • What does fast-forward in Git mean?
   A fast-forward is what Git does when you merge or rebase against a branch that is simply ahead the one you have checked-out.
 
